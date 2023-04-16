@@ -104,7 +104,7 @@ export default function Home() {
         <title>Cooper</title>
         <meta
           name="description"
-          content="A simple chatbot starter kit for OpenAI's chat model using Next.js, TypeScript, and Tailwind CSS."
+          content="Hi! I am Cooper you assistent IA chat"
         />
         <meta
           name="viewport"
